@@ -355,7 +355,7 @@ Push the Cron job to App Engine with this in terminal:
 
 Then visit your Google Console, under App Engine, you'll see a link for Cron jobs, where you'll find your new "Generate MySitemap CRON" job listed.
 
-![cron](//images.ctfassets.net/1nc0h0ipk4bl/3UnANf5TSGhKxHxwCe4e1i/8ffd2b1f499040d54d5b06ad057119c8/cron.png)
+<img src="https://raw.githubusercontent.com/MichaelLisboa/generate-sitemap-python/master/static/images/cron.png" />
 
 Okay, you now have a Cron job set up to visit your sitemap generator every 14 days. But, we could have a problem...
 
