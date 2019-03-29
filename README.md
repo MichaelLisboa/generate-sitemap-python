@@ -1,3 +1,5 @@
+#generate-sitemap-python
+
 Sitemaps are useful for increasing the effectiveness of your SEO. If you head over to [Google's Search Console](https://search.google.com/search-console/about "Google Search Console") you'll find a section to upload a file called `sitemap.xml`.
 
 There are many ways to create this file, from writing it manually (tedious) to having one of many sites out there index your site and generate the file for you. Either of those options are fine for smaller, static websites, but what if you have a large, high traffic, data driven site with constant updates? Well, then you run into problems :-(
