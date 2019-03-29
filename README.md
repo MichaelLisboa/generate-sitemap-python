@@ -1,4 +1,4 @@
-#generate-sitemap-python
+# generate-sitemap-python
 
 Sitemaps are useful for increasing the effectiveness of your SEO. If you head over to [Google's Search Console](https://search.google.com/search-console/about "Google Search Console") you'll find a section to upload a file called `sitemap.xml`.
 
